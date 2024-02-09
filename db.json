@@ -1,0 +1,60 @@
+{
+    "users": [
+      {
+        "userId": 1,
+        "email": "user1@example.com",
+        "password": "password123"
+      },
+      {
+        "userId": 2,
+        "email": "user2@example.com",
+        "password": "password456"
+      },
+      {
+        "userId": 3,
+        "email": "user3@example.com",
+        "password": "password789"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 1,
+        "movieId": 1,
+        "userId": 1,
+        "title": "Great Movie",
+        "review": "I really enjoyed this movie. It had a fantastic storyline and great acting."
+      },
+      {
+        "id": 2,
+        "movieId": 2,
+        "userId": 2,
+        "title": "Disappointing",
+        "review": "I found this movie to be quite disappointing. The plot was weak, and the acting felt forced."
+      },
+      {
+        "id": 3,
+        "movieId": 3,
+        "userId": 3,
+        "title": "Must Watch",
+        "review": "This movie is a must-watch! It kept me on the edge of my seat the entire time."
+      }
+    ],
+    "favorites": [
+      {
+        "id": 1,
+        "movieId": 1,
+        "userId": 1
+      },
+      {
+        "id": 2,
+        "movieId": 2,
+        "userId": 1
+      },
+      {
+        "id": 3,
+        "movieId": 3,
+        "userId": 2
+      }
+    ]
+  }
+  
