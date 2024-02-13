@@ -5,21 +5,24 @@
         "firstName": "John",
         "lastName": "Doe",
         "email": "user1@example.com",
-        "password": "password123"
+        "password": "password123",
+        "watchLaterList": []
       },
       {
         "id": 2,
         "firstName": "Jane",
         "lastName": "Doe",
         "email": "user2@example.com",
-        "password": "password456"
+        "password": "password456",
+        "watchLaterList": []
       },
       {
         "id": 3,
         "firstName": "Clara",
         "lastName": "Doe",
         "email": "user3@example.com",
-        "password": "password789"
+        "password": "password789",
+        "watchLaterList": []
       }
     ],
     "reviews": [
